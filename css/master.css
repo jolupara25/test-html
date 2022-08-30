@@ -1,0 +1,14 @@
+img{
+  background: #FFF76B;
+  max-width: 800px;
+  min-width: 250px;
+}
+
+#Dio{
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+  display: block;
+  float: left;
+  position: relative;
+}
